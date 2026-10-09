@@ -1,0 +1,80 @@
+# Declarative inventory. Add a specification by adding an entry; no code changes needed.
+# Keys: id, title, category, organization, summary, and at least one of:
+#   draft: Internet-Draft name WITHOUT revision suffix (Datatracker)
+#   rfc:   RFC number (RFC Editor). If omitted, resolved automatically once the draft becomes an RFC.
+#   nist:  NIST CSRC publication path, e.g. fips/205/final
+# Optional: related (list of ids), note.
+# 'summary' is curated explanatory text, not a verified fact.
+specifications:
+  - id: composite-ml-kem
+    title: Composite ML-KEM for use in X.509 Public Key Infrastructure
+    category: x509-pki
+    organization: IETF LAMPS WG
+    summary: Defines combinations of ML-KEM with traditional algorithms (RSA-OAEP, ECDH, X25519, X448) for use wherever X.509/PKIX structures carry ML-KEM keys.
+    draft: draft-ietf-lamps-pq-composite-kem
+    related: [composite-signatures]
+
+  - id: tls-hybrid-ecdhe-mlkem
+    title: PQ/T Hybrid Key Agreement Mechanisms for TLS 1.3
+    category: tls
+    organization: IETF TLS WG
+    summary: Hybrid key agreement groups for TLS 1.3 combining ML-KEM with ECDHE (X25519MLKEM768, SecP256r1MLKEM768, SecP384r1MLKEM1024).
+    rfc: 10024
+    draft: draft-ietf-tls-ecdhe-mlkem
+    related: [fips-203]
+
+  - id: slh-dsa-x509
+    title: X.509 Algorithm Identifiers for SLH-DSA
+    category: x509-pki
+    organization: IETF LAMPS WG
+    summary: Algorithm identifiers and encodings for using SLH-DSA (FIPS 205) in X.509 certificates and CRLs.
+    draft: draft-ietf-lamps-x509-slhdsa
+    related: [fips-205, slh-dsa-cms, slh-dsa-cose]
+
+  - id: slh-dsa-cms
+    title: Use of SLH-DSA in the Cryptographic Message Syntax (CMS)
+    category: other-protocols
+    organization: IETF LAMPS WG
+    summary: Conventions for using SLH-DSA signatures in CMS. The draft name still says "sphincs-plus".
+    draft: draft-ietf-lamps-cms-sphincs-plus
+    related: [fips-205, slh-dsa-x509, slh-dsa-cose]
+
+  - id: slh-dsa-cose
+    title: SLH-DSA for JOSE and COSE
+    category: other-protocols
+    organization: IETF COSE WG
+    summary: Registers SLH-DSA algorithm identifiers for JOSE and COSE. The draft name still says "sphincs-plus".
+    draft: draft-ietf-cose-sphincs-plus
+    related: [fips-205, slh-dsa-x509, slh-dsa-cms]
+
+  - id: fips-205
+    title: FIPS 205 - Stateless Hash-Based Digital Signature Standard (SLH-DSA)
+    category: algorithms
+    organization: NIST
+    summary: NIST specification of SLH-DSA, the algorithm the IETF documents above build on. A NIST publication, not an IETF RFC.
+    nist: fips/205/final
+    related: [slh-dsa-x509, slh-dsa-cms, slh-dsa-cose]
+
+  - id: fips-203
+    title: FIPS 203 - Module-Lattice-Based Key-Encapsulation Mechanism Standard (ML-KEM)
+    category: algorithms
+    organization: NIST
+    summary: NIST specification of ML-KEM, used by the hybrid TLS and composite KEM documents. A NIST publication, not an IETF RFC.
+    nist: fips/203/final
+    related: [tls-hybrid-ecdhe-mlkem, composite-ml-kem]
+
+  - id: composite-signatures
+    title: Composite ML-DSA for use in X.509 Public Key Infrastructure
+    category: signatures
+    organization: IETF LAMPS WG
+    summary: Composite signature schemes combining ML-DSA with traditional algorithms for X.509 PKI.
+    draft: draft-ietf-lamps-pq-composite-sigs
+    related: [composite-ml-kem]
+
+  - id: ml-dsa-x509
+    title: X.509 Algorithm Identifiers for ML-DSA
+    category: signatures
+    organization: IETF LAMPS WG
+    summary: Algorithm identifiers and encodings for using ML-DSA (FIPS 204) in X.509.
+    rfc: 9881
+    draft: draft-ietf-lamps-dilithium-certificates

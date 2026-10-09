@@ -1,0 +1,722 @@
+{
+  "items": {
+    "composite-ml-kem": {
+      "check_status": "ok",
+      "derived": {
+        "document": "draft-ietf-lamps-pq-composite-kem-22",
+        "document_url": "https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-kem/",
+        "indicator": "in-review",
+        "intended_level": "Proposed Standard",
+        "lifecycle": "IESG Evaluation",
+        "lifecycle_detail": "Stream state: Submitted to IESG for Publication; Tags: AD Followup",
+        "maturity": "Not applicable",
+        "publication": "Internet-Draft",
+        "version": "22",
+        "warnings": []
+      },
+      "errors": [],
+      "facts": {
+        "draft": {
+          "became_rfc": [],
+          "group": "lamps",
+          "group_name": "Limited Additional Mechanisms for PKIX and SMIME",
+          "intended_level": "Proposed Standard",
+          "name": "draft-ietf-lamps-pq-composite-kem",
+          "replaced_by": [],
+          "replaces": [
+            "draft-ounsworth-pq-composite-kem"
+          ],
+          "rev": "22",
+          "states": [
+            {
+              "name": "Active",
+              "slug": "active",
+              "type": "draft"
+            },
+            {
+              "name": "Expert Reviews OK",
+              "slug": "reviewers-ok",
+              "type": "draft-iana-experts"
+            },
+            {
+              "name": "Version Changed - Review Needed",
+              "slug": "changed",
+              "type": "draft-iana-review"
+            },
+            {
+              "name": "IESG Evaluation",
+              "slug": "iesg-eva",
+              "type": "draft-iesg"
+            },
+            {
+              "name": "Submitted to IESG for Publication",
+              "slug": "sub-pub",
+              "type": "draft-stream-ietf"
+            }
+          ],
+          "stream": "IETF",
+          "tags": [
+            "AD Followup"
+          ],
+          "title": "Composite ML-KEM for use in X.509 Public Key Infrastructure",
+          "url": "https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-kem/",
+          "volatile": {
+            "doc_time": "2026-10-06T14:53:23Z",
+            "expires": "2027-04-09T14:53:23Z"
+          }
+        }
+      },
+      "first_seen": "2026-10-09T16:37:47Z",
+      "last_changed": "2026-10-09T16:37:47Z",
+      "last_checked": "2026-10-09T16:38:16Z",
+      "last_verified": "2026-10-09T16:38:16Z",
+      "source_verified": {
+        "draft": "2026-10-09T16:38:16Z"
+      },
+      "verified_kinds": [
+        "draft"
+      ]
+    },
+    "composite-signatures": {
+      "check_status": "ok",
+      "derived": {
+        "document": "draft-ietf-lamps-pq-composite-sigs-19",
+        "document_url": "https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-sigs/",
+        "indicator": "in-review",
+        "intended_level": "Proposed Standard",
+        "lifecycle": "RFC Ed Queue",
+        "lifecycle_detail": "Stream state: Submitted to IESG for Publication; RFC Editor: In Progress",
+        "maturity": "Not applicable",
+        "publication": "Internet-Draft",
+        "version": "19",
+        "warnings": []
+      },
+      "errors": [],
+      "facts": {
+        "draft": {
+          "became_rfc": [],
+          "group": "lamps",
+          "group_name": "Limited Additional Mechanisms for PKIX and SMIME",
+          "intended_level": "Proposed Standard",
+          "name": "draft-ietf-lamps-pq-composite-sigs",
+          "replaced_by": [],
+          "replaces": [
+            "draft-ounsworth-pq-composite-sigs"
+          ],
+          "rev": "19",
+          "states": [
+            {
+              "name": "Active",
+              "slug": "active",
+              "type": "draft"
+            },
+            {
+              "name": "RFC-Ed-Ack",
+              "slug": "rfcedack",
+              "type": "draft-iana-action"
+            },
+            {
+              "name": "Expert Reviews OK",
+              "slug": "reviewers-ok",
+              "type": "draft-iana-experts"
+            },
+            {
+              "name": "Version Changed - Review Needed",
+              "slug": "changed",
+              "type": "draft-iana-review"
+            },
+            {
+              "name": "RFC Ed Queue",
+              "slug": "rfcqueue",
+              "type": "draft-iesg"
+            },
+            {
+              "name": "In Progress",
+              "slug": "in_progress",
+              "type": "draft-rfceditor"
+            },
+            {
+              "name": "Submitted to IESG for Publication",
+              "slug": "sub-pub",
+              "type": "draft-stream-ietf"
+            }
+          ],
+          "stream": "IETF",
+          "tags": [],
+          "title": "Composite Module-Lattice-Based Digital Signature Algorithm (ML-DSA) for use in X.509 Public Key Infrastructure",
+          "url": "https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-sigs/",
+          "volatile": {
+            "doc_time": "2026-10-02T17:56:44Z",
+            "expires": "2026-10-23T19:19:36Z"
+          }
+        }
+      },
+      "first_seen": "2026-10-09T16:37:47Z",
+      "last_changed": "2026-10-09T16:37:47Z",
+      "last_checked": "2026-10-09T16:38:16Z",
+      "last_verified": "2026-10-09T16:38:16Z",
+      "source_verified": {
+        "draft": "2026-10-09T16:38:16Z"
+      },
+      "verified_kinds": [
+        "draft"
+      ]
+    },
+    "fips-203": {
+      "check_status": "ok",
+      "derived": {
+        "document": "FIPS 203",
+        "document_url": "https://csrc.nist.gov/pubs/fips/203/final",
+        "indicator": "nist-final",
+        "intended_level": null,
+        "lifecycle": "Final",
+        "lifecycle_detail": "",
+        "maturity": "Not applicable",
+        "publication": "NIST publication (not an IETF RFC)",
+        "version": "FIPS 203",
+        "warnings": []
+      },
+      "errors": [],
+      "facts": {
+        "nist": {
+          "doi": "https://doi.org/10.6028/NIST.FIPS.203",
+          "edition": "FIPS 203",
+          "number": "Federal Information Processing Standard (FIPS) 203",
+          "published": "2024-08-13",
+          "ref": "fips/203/final",
+          "status": "Final",
+          "title": "Module-Lattice-Based Key-Encapsulation Mechanism Standard",
+          "url": "https://csrc.nist.gov/pubs/fips/203/final"
+        }
+      },
+      "first_seen": "2026-10-09T16:37:47Z",
+      "last_changed": "2026-10-09T16:37:47Z",
+      "last_checked": "2026-10-09T16:38:16Z",
+      "last_verified": "2026-10-09T16:38:16Z",
+      "source_verified": {
+        "nist": "2026-10-09T16:38:16Z"
+      },
+      "verified_kinds": [
+        "nist"
+      ]
+    },
+    "fips-205": {
+      "check_status": "ok",
+      "derived": {
+        "document": "FIPS 205",
+        "document_url": "https://csrc.nist.gov/pubs/fips/205/final",
+        "indicator": "nist-final",
+        "intended_level": null,
+        "lifecycle": "Final",
+        "lifecycle_detail": "",
+        "maturity": "Not applicable",
+        "publication": "NIST publication (not an IETF RFC)",
+        "version": "FIPS 205",
+        "warnings": []
+      },
+      "errors": [],
+      "facts": {
+        "nist": {
+          "doi": "https://doi.org/10.6028/NIST.FIPS.205",
+          "edition": "FIPS 205",
+          "number": "Federal Information Processing Standard (FIPS) 205",
+          "published": "2024-08-13",
+          "ref": "fips/205/final",
+          "status": "Final",
+          "title": "Stateless Hash-Based Digital Signature Standard",
+          "url": "https://csrc.nist.gov/pubs/fips/205/final"
+        }
+      },
+      "first_seen": "2026-10-09T16:37:47Z",
+      "last_changed": "2026-10-09T16:37:47Z",
+      "last_checked": "2026-10-09T16:38:16Z",
+      "last_verified": "2026-10-09T16:38:16Z",
+      "source_verified": {
+        "nist": "2026-10-09T16:38:16Z"
+      },
+      "verified_kinds": [
+        "nist"
+      ]
+    },
+    "ml-dsa-x509": {
+      "check_status": "ok",
+      "derived": {
+        "document": "RFC 9881",
+        "document_url": "https://www.rfc-editor.org/info/rfc9881",
+        "indicator": "proposed-standard",
+        "intended_level": "Proposed Standard",
+        "lifecycle": "Published",
+        "lifecycle_detail": "",
+        "maturity": "Proposed Standard",
+        "publication": "Published RFC",
+        "version": "9881",
+        "warnings": []
+      },
+      "errors": [],
+      "facts": {
+        "draft": {
+          "became_rfc": [
+            "9881"
+          ],
+          "group": "lamps",
+          "group_name": "Limited Additional Mechanisms for PKIX and SMIME",
+          "intended_level": "Proposed Standard",
+          "name": "draft-ietf-lamps-dilithium-certificates",
+          "replaced_by": [],
+          "replaces": [
+            "draft-massimo-lamps-pq-sig-certificates"
+          ],
+          "rev": "13",
+          "states": [
+            {
+              "name": "RFC",
+              "slug": "rfc",
+              "type": "draft"
+            },
+            {
+              "name": "RFC-Ed-Ack",
+              "slug": "rfcedack",
+              "type": "draft-iana-action"
+            },
+            {
+              "name": "Expert Reviews OK",
+              "slug": "reviewers-ok",
+              "type": "draft-iana-experts"
+            },
+            {
+              "name": "IANA OK - Actions Needed",
+              "slug": "ok-act",
+              "type": "draft-iana-review"
+            },
+            {
+              "name": "RFC Published",
+              "slug": "pub",
+              "type": "draft-iesg"
+            },
+            {
+              "name": "Submitted to IESG for Publication",
+              "slug": "sub-pub",
+              "type": "draft-stream-ietf"
+            }
+          ],
+          "stream": "IETF",
+          "tags": [],
+          "title": "Internet X.509 Public Key Infrastructure - Algorithm Identifiers for the Module-Lattice-Based Digital Signature Algorithm (ML-DSA)",
+          "url": "https://datatracker.ietf.org/doc/draft-ietf-lamps-dilithium-certificates/",
+          "volatile": {
+            "doc_time": "2025-10-30T00:30:12Z",
+            "expires": "2026-04-03T14:44:15Z"
+          }
+        },
+        "rfc": {
+          "datatracker_std_level": "Proposed Standard",
+          "doi": "10.17487/RFC9881",
+          "draft": "draft-ietf-lamps-dilithium-certificates",
+          "has_errata": true,
+          "number": 9881,
+          "obsoleted_by": [],
+          "obsoletes": [],
+          "pub_date": "October 2025",
+          "pub_status": "PROPOSED STANDARD",
+          "source_group": "Limited Additional Mechanisms for PKIX and SMIME",
+          "status": "Proposed Standard",
+          "status_raw": "PROPOSED STANDARD",
+          "title": "Internet X.509 Public Key Infrastructure -- Algorithm Identifiers for the Module-Lattice-Based Digital Signature Algorithm (ML-DSA)",
+          "updated_by": [],
+          "updates": [],
+          "url": "https://www.rfc-editor.org/info/rfc9881"
+        }
+      },
+      "first_seen": "2026-10-09T16:37:47Z",
+      "last_changed": "2026-10-09T16:37:47Z",
+      "last_checked": "2026-10-09T16:38:16Z",
+      "last_verified": "2026-10-09T16:38:16Z",
+      "source_verified": {
+        "draft": "2026-10-09T16:38:16Z",
+        "rfc": "2026-10-09T16:38:16Z"
+      },
+      "verified_kinds": [
+        "draft",
+        "rfc"
+      ]
+    },
+    "slh-dsa-cms": {
+      "check_status": "ok",
+      "derived": {
+        "document": "RFC 9814",
+        "document_url": "https://www.rfc-editor.org/info/rfc9814",
+        "indicator": "proposed-standard",
+        "intended_level": "Proposed Standard",
+        "lifecycle": "Published",
+        "lifecycle_detail": "",
+        "maturity": "Proposed Standard",
+        "publication": "Published RFC",
+        "version": "9814",
+        "warnings": []
+      },
+      "errors": [],
+      "facts": {
+        "draft": {
+          "became_rfc": [
+            "9814"
+          ],
+          "group": "lamps",
+          "group_name": "Limited Additional Mechanisms for PKIX and SMIME",
+          "intended_level": "Proposed Standard",
+          "name": "draft-ietf-lamps-cms-sphincs-plus",
+          "replaced_by": [],
+          "replaces": [
+            "draft-housley-lamps-cms-sphincs-plus"
+          ],
+          "rev": "19",
+          "states": [
+            {
+              "name": "RFC",
+              "slug": "rfc",
+              "type": "draft"
+            },
+            {
+              "name": "RFC-Ed-Ack",
+              "slug": "rfcedack",
+              "type": "draft-iana-action"
+            },
+            {
+              "name": "Expert Reviews OK",
+              "slug": "reviewers-ok",
+              "type": "draft-iana-experts"
+            },
+            {
+              "name": "Version Changed - Review Needed",
+              "slug": "changed",
+              "type": "draft-iana-review"
+            },
+            {
+              "name": "RFC Published",
+              "slug": "pub",
+              "type": "draft-iesg"
+            },
+            {
+              "name": "Submitted to IESG for Publication",
+              "slug": "sub-pub",
+              "type": "draft-stream-ietf"
+            }
+          ],
+          "stream": "IETF",
+          "tags": [],
+          "title": "Use of the SLH-DSA Signature Algorithm in the Cryptographic Message Syntax (CMS)",
+          "url": "https://datatracker.ietf.org/doc/draft-ietf-lamps-cms-sphincs-plus/",
+          "volatile": {
+            "doc_time": "2025-07-19T10:57:38Z",
+            "expires": "2025-07-17T20:20:45Z"
+          }
+        },
+        "rfc": {
+          "datatracker_std_level": "Proposed Standard",
+          "doi": "10.17487/RFC9814",
+          "draft": "draft-ietf-lamps-cms-sphincs-plus",
+          "has_errata": false,
+          "number": 9814,
+          "obsoleted_by": [],
+          "obsoletes": [],
+          "pub_date": "July 2025",
+          "pub_status": "PROPOSED STANDARD",
+          "source_group": "Limited Additional Mechanisms for PKIX and SMIME",
+          "status": "Proposed Standard",
+          "status_raw": "PROPOSED STANDARD",
+          "title": "Use of the SLH-DSA Signature Algorithm in the Cryptographic Message Syntax (CMS)",
+          "updated_by": [],
+          "updates": [],
+          "url": "https://www.rfc-editor.org/info/rfc9814"
+        }
+      },
+      "first_seen": "2026-10-09T16:37:47Z",
+      "last_changed": "2026-10-09T16:37:47Z",
+      "last_checked": "2026-10-09T16:38:16Z",
+      "last_verified": "2026-10-09T16:38:16Z",
+      "source_verified": {
+        "draft": "2026-10-09T16:38:16Z",
+        "rfc": "2026-10-09T16:38:16Z"
+      },
+      "verified_kinds": [
+        "draft",
+        "rfc"
+      ]
+    },
+    "slh-dsa-cose": {
+      "check_status": "ok",
+      "derived": {
+        "document": "draft-ietf-cose-sphincs-plus-10",
+        "document_url": "https://datatracker.ietf.org/doc/draft-ietf-cose-sphincs-plus/",
+        "indicator": "in-review",
+        "intended_level": "Proposed Standard",
+        "lifecycle": "AD Evaluation",
+        "lifecycle_detail": "Stream state: Submitted to IESG for Publication",
+        "maturity": "Not applicable",
+        "publication": "Internet-Draft",
+        "version": "10",
+        "warnings": []
+      },
+      "errors": [],
+      "facts": {
+        "draft": {
+          "became_rfc": [],
+          "group": "cose",
+          "group_name": "CBOR Object Signing and Encryption",
+          "intended_level": "Proposed Standard",
+          "name": "draft-ietf-cose-sphincs-plus",
+          "replaced_by": [],
+          "replaces": [
+            "draft-ietf-cose-post-quantum-signatures"
+          ],
+          "rev": "10",
+          "states": [
+            {
+              "name": "Active",
+              "slug": "active",
+              "type": "draft"
+            },
+            {
+              "name": "AD Evaluation",
+              "slug": "ad-eval",
+              "type": "draft-iesg"
+            },
+            {
+              "name": "Submitted to IESG for Publication",
+              "slug": "sub-pub",
+              "type": "draft-stream-ietf"
+            }
+          ],
+          "stream": "IETF",
+          "tags": [],
+          "title": "SLH-DSA for JOSE and COSE",
+          "url": "https://datatracker.ietf.org/doc/draft-ietf-cose-sphincs-plus/",
+          "volatile": {
+            "doc_time": "2026-08-24T03:52:13Z",
+            "expires": "2027-01-29T17:44:43Z"
+          }
+        }
+      },
+      "first_seen": "2026-10-09T16:37:47Z",
+      "last_changed": "2026-10-09T16:37:47Z",
+      "last_checked": "2026-10-09T16:38:16Z",
+      "last_verified": "2026-10-09T16:38:16Z",
+      "source_verified": {
+        "draft": "2026-10-09T16:38:16Z"
+      },
+      "verified_kinds": [
+        "draft"
+      ]
+    },
+    "slh-dsa-x509": {
+      "check_status": "ok",
+      "derived": {
+        "document": "RFC 9909",
+        "document_url": "https://www.rfc-editor.org/info/rfc9909",
+        "indicator": "proposed-standard",
+        "intended_level": "Proposed Standard",
+        "lifecycle": "Published",
+        "lifecycle_detail": "",
+        "maturity": "Proposed Standard",
+        "publication": "Published RFC",
+        "version": "9909",
+        "warnings": []
+      },
+      "errors": [],
+      "facts": {
+        "draft": {
+          "became_rfc": [
+            "9909"
+          ],
+          "group": "lamps",
+          "group_name": "Limited Additional Mechanisms for PKIX and SMIME",
+          "intended_level": "Proposed Standard",
+          "name": "draft-ietf-lamps-x509-slhdsa",
+          "replaced_by": [],
+          "replaces": [
+            "draft-gazdag-x509-slhdsa"
+          ],
+          "rev": "09",
+          "states": [
+            {
+              "name": "RFC",
+              "slug": "rfc",
+              "type": "draft"
+            },
+            {
+              "name": "RFC-Ed-Ack",
+              "slug": "rfcedack",
+              "type": "draft-iana-action"
+            },
+            {
+              "name": "Expert Reviews OK",
+              "slug": "reviewers-ok",
+              "type": "draft-iana-experts"
+            },
+            {
+              "name": "IANA OK - Actions Needed",
+              "slug": "ok-act",
+              "type": "draft-iana-review"
+            },
+            {
+              "name": "RFC Published",
+              "slug": "pub",
+              "type": "draft-iesg"
+            },
+            {
+              "name": "Submitted to IESG for Publication",
+              "slug": "sub-pub",
+              "type": "draft-stream-ietf"
+            }
+          ],
+          "stream": "IETF",
+          "tags": [],
+          "title": "Internet X.509 Public Key Infrastructure: Algorithm Identifiers for SLH-DSA",
+          "url": "https://datatracker.ietf.org/doc/draft-ietf-lamps-x509-slhdsa/",
+          "volatile": {
+            "doc_time": "2025-12-22T18:40:52Z",
+            "expires": "2026-01-01T17:00:49Z"
+          }
+        },
+        "rfc": {
+          "datatracker_std_level": "Proposed Standard",
+          "doi": "10.17487/RFC9909",
+          "draft": "draft-ietf-lamps-x509-slhdsa",
+          "has_errata": true,
+          "number": 9909,
+          "obsoleted_by": [],
+          "obsoletes": [],
+          "pub_date": "December 2025",
+          "pub_status": "PROPOSED STANDARD",
+          "source_group": "Limited Additional Mechanisms for PKIX and SMIME",
+          "status": "Proposed Standard",
+          "status_raw": "PROPOSED STANDARD",
+          "title": "Internet X.509 Public Key Infrastructure -- Algorithm Identifiers for the Stateless Hash-Based Digital Signature Algorithm (SLH-DSA)",
+          "updated_by": [],
+          "updates": [],
+          "url": "https://www.rfc-editor.org/info/rfc9909"
+        }
+      },
+      "first_seen": "2026-10-09T16:37:47Z",
+      "last_changed": "2026-10-09T16:37:47Z",
+      "last_checked": "2026-10-09T16:38:16Z",
+      "last_verified": "2026-10-09T16:38:16Z",
+      "source_verified": {
+        "draft": "2026-10-09T16:38:16Z",
+        "rfc": "2026-10-09T16:38:16Z"
+      },
+      "verified_kinds": [
+        "draft",
+        "rfc"
+      ]
+    },
+    "tls-hybrid-ecdhe-mlkem": {
+      "check_status": "ok",
+      "derived": {
+        "document": "RFC 10024",
+        "document_url": "https://www.rfc-editor.org/info/rfc10024",
+        "indicator": "proposed-standard",
+        "intended_level": "Proposed Standard",
+        "lifecycle": "Published",
+        "lifecycle_detail": "",
+        "maturity": "Proposed Standard",
+        "publication": "Published RFC",
+        "version": "10024",
+        "warnings": []
+      },
+      "errors": [],
+      "facts": {
+        "draft": {
+          "became_rfc": [
+            "10024"
+          ],
+          "group": "tls",
+          "group_name": "Transport Layer Security",
+          "intended_level": "Proposed Standard",
+          "name": "draft-ietf-tls-ecdhe-mlkem",
+          "replaced_by": [],
+          "replaces": [
+            "draft-kwiatkowski-tls-ecdhe-mlkem"
+          ],
+          "rev": "05",
+          "states": [
+            {
+              "name": "RFC",
+              "slug": "rfc",
+              "type": "draft"
+            },
+            {
+              "name": "RFC-Ed-Ack",
+              "slug": "rfcedack",
+              "type": "draft-iana-action"
+            },
+            {
+              "name": "Expert Reviews OK",
+              "slug": "reviewers-ok",
+              "type": "draft-iana-experts"
+            },
+            {
+              "name": "IANA OK - Actions Needed",
+              "slug": "ok-act",
+              "type": "draft-iana-review"
+            },
+            {
+              "name": "RFC Published",
+              "slug": "pub",
+              "type": "draft-iesg"
+            },
+            {
+              "name": "Submitted to IESG for Publication",
+              "slug": "sub-pub",
+              "type": "draft-stream-ietf"
+            }
+          ],
+          "stream": "IETF",
+          "tags": [],
+          "title": "Post-quantum hybrid ECDHE-MLKEM Key Agreement for TLSv1.3",
+          "url": "https://datatracker.ietf.org/doc/draft-ietf-tls-ecdhe-mlkem/",
+          "volatile": {
+            "doc_time": "2026-08-10T18:11:17Z",
+            "expires": "2026-11-27T16:24:16Z"
+          }
+        },
+        "rfc": {
+          "datatracker_std_level": "Proposed Standard",
+          "doi": "10.17487/RFC10024",
+          "draft": "draft-ietf-tls-ecdhe-mlkem",
+          "has_errata": false,
+          "number": 10024,
+          "obsoleted_by": [],
+          "obsoletes": [],
+          "pub_date": "August 2026",
+          "pub_status": "PROPOSED STANDARD",
+          "source_group": "Transport Layer Security",
+          "status": "Proposed Standard",
+          "status_raw": "PROPOSED STANDARD",
+          "title": "Post-Quantum Traditional (PQ/T) Hybrid Key Agreement Mechanisms for TLS 1.3",
+          "updated_by": [],
+          "updates": [],
+          "url": "https://www.rfc-editor.org/info/rfc10024"
+        }
+      },
+      "first_seen": "2026-10-09T16:37:47Z",
+      "last_changed": "2026-10-09T16:37:47Z",
+      "last_checked": "2026-10-09T16:38:16Z",
+      "last_verified": "2026-10-09T16:38:16Z",
+      "source_verified": {
+        "draft": "2026-10-09T16:38:16Z",
+        "rfc": "2026-10-09T16:38:16Z"
+      },
+      "verified_kinds": [
+        "draft",
+        "rfc"
+      ]
+    }
+  },
+  "last_run": {
+    "at": "2026-10-09T16:38:16Z",
+    "errors": 0,
+    "outcome": "ok"
+  },
+  "last_successful_refresh": "2026-10-09T16:38:16Z",
+  "schema_version": 1
+}
