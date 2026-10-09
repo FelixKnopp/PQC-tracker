@@ -19,7 +19,7 @@ CATEGORIES = {
 }
 ID_RE = re.compile(r"^[a-z0-9][a-z0-9-]{1,63}$")
 DRAFT_RE = re.compile(r"^draft-[a-z0-9-]+$")
-NIST_RE = re.compile(r"^(fips|sp)/[a-z0-9-]+/[a-z]+$")
+NIST_RE = re.compile(r"^(fips|sp|ir)/[a-z0-9-]+/[a-z]+$")
 ALLOWED_KEYS = {
     "id", "title", "category", "organization", "summary",
     "draft", "rfc", "nist", "related", "note",

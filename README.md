@@ -5,7 +5,7 @@
 
 A live dashboard of the standardization status of post-quantum cryptography (PQC) specifications relevant to Internet protocols and PKI. Data is pulled automatically from the [IETF Datatracker](https://datatracker.ietf.org/), the [RFC Editor](https://www.rfc-editor.org/) and [NIST CSRC](https://csrc.nist.gov/), and this page is regenerated from it.
 
-**Last successful data refresh:** 2026-10-09T16:38:16Z (UTC) · **Last run:** 2026-10-09T16:38:16Z (no errors)
+**Last successful data refresh:** 2026-10-09T16:51:52Z (UTC) · **Last run:** 2026-10-09T16:51:52Z (no errors)
 
 ## Standards overview
 
@@ -13,13 +13,13 @@ Counts are **unique tracked initiatives** (one row per tracked specification; a 
 
 | Measure | Count |
 |---|---:|
-| Tracked initiatives (total) | 9 |
+| Tracked initiatives (total) | 11 |
 | 📄 Published RFCs | 4 |
 | 🟢 Internet Standards | 0 |
 | 🔵 Proposed Standards | 4 |
-| 🟡 Active Internet-Drafts | 0 |
+| 🟡 Active Internet-Drafts | 1 |
 | 🟠 Drafts in review / awaiting publication | 3 |
-| 🏛️ NIST publications (not RFCs) | 2 |
+| 🏛️ NIST publications (not RFCs) | 3 |
 | 🔁 Items with status changes in the last 30 days | 0 |
 | 🔴 Items needing attention (error / stale / inconsistent) | 0 |
 
@@ -36,6 +36,8 @@ Counts are **unique tracked initiatives** (one row per tracked specification; a 
 | **FIPS 203 - Module-Lattice-Based Key-Encapsulation Mechanism Standard (ML-KEM)**<br>🏛️ NIST final publication | Algorithm specifications | [FIPS 203](https://csrc.nist.gov/pubs/fips/203/final)<br><sub>[NIST page](https://csrc.nist.gov/pubs/fips/203/final)</sub> | NIST publication (not an IETF RFC) | Not applicable | Final | ✅ Verified 2026-10-09 |
 | **Composite ML-DSA for use in X.509 Public Key Infrastructure**<br>🟠 In review / awaiting publication | Digital signatures | [draft-ietf-lamps-pq-composite-sigs-19](https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-sigs/)<br><sub>[Internet-Draft](https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-sigs/) · [History](https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-sigs/history/)</sub> | Internet-Draft | Not applicable (intended: Proposed Standard) | RFC Ed Queue<br><sub>Stream state: Submitted to IESG for Publication; RFC Editor: In Progress</sub> | ✅ Verified 2026-10-09 |
 | **X.509 Algorithm Identifiers for ML-DSA**<br>🔵 Proposed Standard | Digital signatures | [RFC 9881](https://www.rfc-editor.org/info/rfc9881)<br><sub>[RFC Editor info](https://www.rfc-editor.org/info/rfc9881) · [Datatracker (RFC 9881)](https://datatracker.ietf.org/doc/rfc9881/) · [Internet-Draft](https://datatracker.ietf.org/doc/draft-ietf-lamps-dilithium-certificates/) · [History](https://datatracker.ietf.org/doc/draft-ietf-lamps-dilithium-certificates/history/)</sub> | Published RFC | Proposed Standard | Published | ✅ Verified 2026-10-09 |
+| **HQC-KEM Key Agreement for TLS 1.3**<br>🟡 Active Internet-Draft | TLS | [draft-preussmattsson-tls-hqckem-00](https://datatracker.ietf.org/doc/draft-preussmattsson-tls-hqckem/)<br><sub>[Internet-Draft](https://datatracker.ietf.org/doc/draft-preussmattsson-tls-hqckem/) · [History](https://datatracker.ietf.org/doc/draft-preussmattsson-tls-hqckem/history/)</sub> | Internet-Draft | Not applicable | Active | ✅ Verified 2026-10-09 |
+| **NIST IR 8545 - Status Report on the Fourth Round of the NIST PQC Standardization Process (HQC selection)**<br>🏛️ NIST final publication | Key establishment | [IR 8545](https://csrc.nist.gov/pubs/ir/8545/final)<br><sub>[NIST page](https://csrc.nist.gov/pubs/ir/8545/final)</sub> | NIST publication (not an IETF RFC) | Not applicable | Final | ✅ Verified 2026-10-09 |
 
 ## Recently changed (last 30 days)
 
@@ -55,6 +57,7 @@ _No meaningful status changes detected in this period._
 | Specification | Document | Publication | Standards maturity | Lifecycle state |
 |---|---|---|---|---|
 | **PQ/T Hybrid Key Agreement Mechanisms for TLS 1.3**<br>🔵 Proposed Standard | [RFC 10024](https://www.rfc-editor.org/info/rfc10024) | Published RFC | Proposed Standard | Published |
+| **HQC-KEM Key Agreement for TLS 1.3**<br>🟡 Active Internet-Draft | [draft-preussmattsson-tls-hqckem-00](https://datatracker.ietf.org/doc/draft-preussmattsson-tls-hqckem/) | Internet-Draft | Not applicable | Active |
 
 ### Digital signatures
 
@@ -65,7 +68,9 @@ _No meaningful status changes detected in this period._
 
 ### Key establishment
 
-_No specifications tracked in this area yet._
+| Specification | Document | Publication | Standards maturity | Lifecycle state |
+|---|---|---|---|---|
+| **NIST IR 8545 - Status Report on the Fourth Round of the NIST PQC Standardization Process (HQC selection)**<br>🏛️ NIST final publication | [IR 8545](https://csrc.nist.gov/pubs/ir/8545/final) | NIST publication (not an IETF RFC) | Not applicable | Final |
 
 ### Algorithm specifications
 

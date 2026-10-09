@@ -68,10 +68,10 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-09T16:38:16Z",
-      "last_verified": "2026-10-09T16:38:16Z",
+      "last_checked": "2026-10-09T16:51:52Z",
+      "last_verified": "2026-10-09T16:51:52Z",
       "source_verified": {
-        "draft": "2026-10-09T16:38:16Z"
+        "draft": "2026-10-09T16:51:52Z"
       },
       "verified_kinds": [
         "draft"
@@ -153,10 +153,10 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-09T16:38:16Z",
-      "last_verified": "2026-10-09T16:38:16Z",
+      "last_checked": "2026-10-09T16:51:52Z",
+      "last_verified": "2026-10-09T16:51:52Z",
       "source_verified": {
-        "draft": "2026-10-09T16:38:16Z"
+        "draft": "2026-10-09T16:51:52Z"
       },
       "verified_kinds": [
         "draft"
@@ -191,10 +191,10 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-09T16:38:16Z",
-      "last_verified": "2026-10-09T16:38:16Z",
+      "last_checked": "2026-10-09T16:51:52Z",
+      "last_verified": "2026-10-09T16:51:52Z",
       "source_verified": {
-        "nist": "2026-10-09T16:38:16Z"
+        "nist": "2026-10-09T16:51:52Z"
       },
       "verified_kinds": [
         "nist"
@@ -229,13 +229,71 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-09T16:38:16Z",
-      "last_verified": "2026-10-09T16:38:16Z",
+      "last_checked": "2026-10-09T16:51:52Z",
+      "last_verified": "2026-10-09T16:51:52Z",
       "source_verified": {
-        "nist": "2026-10-09T16:38:16Z"
+        "nist": "2026-10-09T16:51:52Z"
       },
       "verified_kinds": [
         "nist"
+      ]
+    },
+    "hqc-tls": {
+      "check_status": "ok",
+      "derived": {
+        "document": "draft-preussmattsson-tls-hqckem-00",
+        "document_url": "https://datatracker.ietf.org/doc/draft-preussmattsson-tls-hqckem/",
+        "indicator": "active-draft",
+        "intended_level": null,
+        "lifecycle": "Active",
+        "lifecycle_detail": "",
+        "maturity": "Not applicable",
+        "publication": "Internet-Draft",
+        "version": "00",
+        "warnings": []
+      },
+      "errors": [],
+      "facts": {
+        "draft": {
+          "became_rfc": [],
+          "group": "none",
+          "group_name": "Individual Submissions",
+          "intended_level": null,
+          "name": "draft-preussmattsson-tls-hqckem",
+          "replaced_by": [],
+          "replaces": [],
+          "rev": "00",
+          "states": [
+            {
+              "name": "Active",
+              "slug": "active",
+              "type": "draft"
+            },
+            {
+              "name": "I-D Exists",
+              "slug": "idexists",
+              "type": "draft-iesg"
+            }
+          ],
+          "stream": null,
+          "tags": [],
+          "title": "HQC-KEM Key Agreement for TLS 1.3",
+          "url": "https://datatracker.ietf.org/doc/draft-preussmattsson-tls-hqckem/",
+          "volatile": {
+            "doc_time": "2026-10-09T15:25:47Z",
+            "expires": "2027-04-12T15:25:47Z"
+          }
+        }
+      },
+      "first_seen": "2026-10-09T16:51:52Z",
+      "last_changed": "2026-10-09T16:51:52Z",
+      "last_checked": "2026-10-09T16:51:52Z",
+      "last_verified": "2026-10-09T16:51:52Z",
+      "source_verified": {
+        "draft": "2026-10-09T16:51:52Z"
+      },
+      "verified_kinds": [
+        "draft"
       ]
     },
     "ml-dsa-x509": {
@@ -329,15 +387,53 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-09T16:38:16Z",
-      "last_verified": "2026-10-09T16:38:16Z",
+      "last_checked": "2026-10-09T16:51:52Z",
+      "last_verified": "2026-10-09T16:51:52Z",
       "source_verified": {
-        "draft": "2026-10-09T16:38:16Z",
-        "rfc": "2026-10-09T16:38:16Z"
+        "draft": "2026-10-09T16:51:52Z",
+        "rfc": "2026-10-09T16:51:52Z"
       },
       "verified_kinds": [
         "draft",
         "rfc"
+      ]
+    },
+    "nist-hqc-status": {
+      "check_status": "ok",
+      "derived": {
+        "document": "IR 8545",
+        "document_url": "https://csrc.nist.gov/pubs/ir/8545/final",
+        "indicator": "nist-final",
+        "intended_level": null,
+        "lifecycle": "Final",
+        "lifecycle_detail": "",
+        "maturity": "Not applicable",
+        "publication": "NIST publication (not an IETF RFC)",
+        "version": "IR 8545",
+        "warnings": []
+      },
+      "errors": [],
+      "facts": {
+        "nist": {
+          "doi": "https://doi.org/10.6028/NIST.IR.8545",
+          "edition": "IR 8545",
+          "number": "NIST Internal or Interagency Report (NISTIR) 8545",
+          "published": "2025-03-11",
+          "ref": "ir/8545/final",
+          "status": "Final",
+          "title": "Status Report on the Fourth Round of the NIST Post-Quantum Cryptography Standardization Process",
+          "url": "https://csrc.nist.gov/pubs/ir/8545/final"
+        }
+      },
+      "first_seen": "2026-10-09T16:51:52Z",
+      "last_changed": "2026-10-09T16:51:52Z",
+      "last_checked": "2026-10-09T16:51:52Z",
+      "last_verified": "2026-10-09T16:51:52Z",
+      "source_verified": {
+        "nist": "2026-10-09T16:51:52Z"
+      },
+      "verified_kinds": [
+        "nist"
       ]
     },
     "slh-dsa-cms": {
@@ -431,11 +527,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-09T16:38:16Z",
-      "last_verified": "2026-10-09T16:38:16Z",
+      "last_checked": "2026-10-09T16:51:52Z",
+      "last_verified": "2026-10-09T16:51:52Z",
       "source_verified": {
-        "draft": "2026-10-09T16:38:16Z",
-        "rfc": "2026-10-09T16:38:16Z"
+        "draft": "2026-10-09T16:51:52Z",
+        "rfc": "2026-10-09T16:51:52Z"
       },
       "verified_kinds": [
         "draft",
@@ -498,10 +594,10 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-09T16:38:16Z",
-      "last_verified": "2026-10-09T16:38:16Z",
+      "last_checked": "2026-10-09T16:51:52Z",
+      "last_verified": "2026-10-09T16:51:52Z",
       "source_verified": {
-        "draft": "2026-10-09T16:38:16Z"
+        "draft": "2026-10-09T16:51:52Z"
       },
       "verified_kinds": [
         "draft"
@@ -598,11 +694,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-09T16:38:16Z",
-      "last_verified": "2026-10-09T16:38:16Z",
+      "last_checked": "2026-10-09T16:51:52Z",
+      "last_verified": "2026-10-09T16:51:52Z",
       "source_verified": {
-        "draft": "2026-10-09T16:38:16Z",
-        "rfc": "2026-10-09T16:38:16Z"
+        "draft": "2026-10-09T16:51:52Z",
+        "rfc": "2026-10-09T16:51:52Z"
       },
       "verified_kinds": [
         "draft",
@@ -700,11 +796,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-09T16:38:16Z",
-      "last_verified": "2026-10-09T16:38:16Z",
+      "last_checked": "2026-10-09T16:51:52Z",
+      "last_verified": "2026-10-09T16:51:52Z",
       "source_verified": {
-        "draft": "2026-10-09T16:38:16Z",
-        "rfc": "2026-10-09T16:38:16Z"
+        "draft": "2026-10-09T16:51:52Z",
+        "rfc": "2026-10-09T16:51:52Z"
       },
       "verified_kinds": [
         "draft",
@@ -713,10 +809,10 @@
     }
   },
   "last_run": {
-    "at": "2026-10-09T16:38:16Z",
+    "at": "2026-10-09T16:51:52Z",
     "errors": 0,
     "outcome": "ok"
   },
-  "last_successful_refresh": "2026-10-09T16:38:16Z",
+  "last_successful_refresh": "2026-10-09T16:51:52Z",
   "schema_version": 1
 }

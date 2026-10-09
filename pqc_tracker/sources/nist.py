@@ -14,7 +14,7 @@ from typing import Any
 from ..http import Http, SourceError
 
 SOURCE = "nist"
-PUB_RE = re.compile(r"^(fips|sp)/([a-z0-9-]+)/([a-z]+)$")
+PUB_RE = re.compile(r"^(fips|sp|ir)/([a-z0-9-]+)/([a-z]+)$")
 CURRENT_RE = re.compile(r"^(.*?)\s*\(([^)]+)\)\s*$")
 
 
