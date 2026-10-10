@@ -7,8 +7,8 @@
         "document_url": "https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-kem/",
         "indicator": "in-review",
         "intended_level": "Proposed Standard",
-        "lifecycle": "IESG Evaluation",
-        "lifecycle_detail": "Stream state: Submitted to IESG for Publication; Tags: AD Followup",
+        "lifecycle": "Approved-announcement to be sent",
+        "lifecycle_detail": "Stream state: Submitted to IESG for Publication",
         "maturity": "Not applicable",
         "publication": "Internet-Draft",
         "version": "22",
@@ -44,8 +44,8 @@
               "type": "draft-iana-review"
             },
             {
-              "name": "IESG Evaluation",
-              "slug": "iesg-eva",
+              "name": "Approved-announcement to be sent",
+              "slug": "approved",
               "type": "draft-iesg"
             },
             {
@@ -55,23 +55,21 @@
             }
           ],
           "stream": "IETF",
-          "tags": [
-            "AD Followup"
-          ],
+          "tags": [],
           "title": "Composite ML-KEM for use in X.509 Public Key Infrastructure",
           "url": "https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-kem/",
           "volatile": {
-            "doc_time": "2026-10-06T14:53:23Z",
+            "doc_time": "2026-10-10T10:21:29Z",
             "expires": "2027-04-09T14:53:23Z"
           }
         }
       },
       "first_seen": "2026-10-09T16:37:47Z",
-      "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-09T16:51:52Z",
-      "last_verified": "2026-10-09T16:51:52Z",
+      "last_changed": "2026-10-10T12:37:52Z",
+      "last_checked": "2026-10-10T12:37:52Z",
+      "last_verified": "2026-10-10T12:37:52Z",
       "source_verified": {
-        "draft": "2026-10-09T16:51:52Z"
+        "draft": "2026-10-10T12:37:52Z"
       },
       "verified_kinds": [
         "draft"
@@ -153,10 +151,10 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-09T16:51:52Z",
-      "last_verified": "2026-10-09T16:51:52Z",
+      "last_checked": "2026-10-10T12:37:52Z",
+      "last_verified": "2026-10-10T12:37:52Z",
       "source_verified": {
-        "draft": "2026-10-09T16:51:52Z"
+        "draft": "2026-10-10T12:37:52Z"
       },
       "verified_kinds": [
         "draft"
@@ -191,10 +189,10 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-09T16:51:52Z",
-      "last_verified": "2026-10-09T16:51:52Z",
+      "last_checked": "2026-10-10T12:37:52Z",
+      "last_verified": "2026-10-10T12:37:52Z",
       "source_verified": {
-        "nist": "2026-10-09T16:51:52Z"
+        "nist": "2026-10-10T12:37:52Z"
       },
       "verified_kinds": [
         "nist"
@@ -229,10 +227,10 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-09T16:51:52Z",
-      "last_verified": "2026-10-09T16:51:52Z",
+      "last_checked": "2026-10-10T12:37:52Z",
+      "last_verified": "2026-10-10T12:37:52Z",
       "source_verified": {
-        "nist": "2026-10-09T16:51:52Z"
+        "nist": "2026-10-10T12:37:52Z"
       },
       "verified_kinds": [
         "nist"
@@ -287,10 +285,10 @@
       },
       "first_seen": "2026-10-09T16:51:52Z",
       "last_changed": "2026-10-09T16:51:52Z",
-      "last_checked": "2026-10-09T16:51:52Z",
-      "last_verified": "2026-10-09T16:51:52Z",
+      "last_checked": "2026-10-10T12:37:52Z",
+      "last_verified": "2026-10-10T12:37:52Z",
       "source_verified": {
-        "draft": "2026-10-09T16:51:52Z"
+        "draft": "2026-10-10T12:37:52Z"
       },
       "verified_kinds": [
         "draft"
@@ -387,11 +385,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-09T16:51:52Z",
-      "last_verified": "2026-10-09T16:51:52Z",
+      "last_checked": "2026-10-10T12:37:52Z",
+      "last_verified": "2026-10-10T12:37:52Z",
       "source_verified": {
-        "draft": "2026-10-09T16:51:52Z",
-        "rfc": "2026-10-09T16:51:52Z"
+        "draft": "2026-10-10T12:37:52Z",
+        "rfc": "2026-10-10T12:37:52Z"
       },
       "verified_kinds": [
         "draft",
@@ -427,10 +425,10 @@
       },
       "first_seen": "2026-10-09T16:51:52Z",
       "last_changed": "2026-10-09T16:51:52Z",
-      "last_checked": "2026-10-09T16:51:52Z",
-      "last_verified": "2026-10-09T16:51:52Z",
+      "last_checked": "2026-10-10T12:37:52Z",
+      "last_verified": "2026-10-10T12:37:52Z",
       "source_verified": {
-        "nist": "2026-10-09T16:51:52Z"
+        "nist": "2026-10-10T12:37:52Z"
       },
       "verified_kinds": [
         "nist"
@@ -527,11 +525,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-09T16:51:52Z",
-      "last_verified": "2026-10-09T16:51:52Z",
+      "last_checked": "2026-10-10T12:37:52Z",
+      "last_verified": "2026-10-10T12:37:52Z",
       "source_verified": {
-        "draft": "2026-10-09T16:51:52Z",
-        "rfc": "2026-10-09T16:51:52Z"
+        "draft": "2026-10-10T12:37:52Z",
+        "rfc": "2026-10-10T12:37:52Z"
       },
       "verified_kinds": [
         "draft",
@@ -594,10 +592,10 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-09T16:51:52Z",
-      "last_verified": "2026-10-09T16:51:52Z",
+      "last_checked": "2026-10-10T12:37:52Z",
+      "last_verified": "2026-10-10T12:37:52Z",
       "source_verified": {
-        "draft": "2026-10-09T16:51:52Z"
+        "draft": "2026-10-10T12:37:52Z"
       },
       "verified_kinds": [
         "draft"
@@ -694,11 +692,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-09T16:51:52Z",
-      "last_verified": "2026-10-09T16:51:52Z",
+      "last_checked": "2026-10-10T12:37:52Z",
+      "last_verified": "2026-10-10T12:37:52Z",
       "source_verified": {
-        "draft": "2026-10-09T16:51:52Z",
-        "rfc": "2026-10-09T16:51:52Z"
+        "draft": "2026-10-10T12:37:52Z",
+        "rfc": "2026-10-10T12:37:52Z"
       },
       "verified_kinds": [
         "draft",
@@ -796,11 +794,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-09T16:51:52Z",
-      "last_verified": "2026-10-09T16:51:52Z",
+      "last_checked": "2026-10-10T12:37:52Z",
+      "last_verified": "2026-10-10T12:37:52Z",
       "source_verified": {
-        "draft": "2026-10-09T16:51:52Z",
-        "rfc": "2026-10-09T16:51:52Z"
+        "draft": "2026-10-10T12:37:52Z",
+        "rfc": "2026-10-10T12:37:52Z"
       },
       "verified_kinds": [
         "draft",
@@ -809,10 +807,10 @@
     }
   },
   "last_run": {
-    "at": "2026-10-09T16:51:52Z",
+    "at": "2026-10-10T12:37:52Z",
     "errors": 0,
     "outcome": "ok"
   },
-  "last_successful_refresh": "2026-10-09T16:51:52Z",
+  "last_successful_refresh": "2026-10-10T12:37:52Z",
   "schema_version": 1
 }
