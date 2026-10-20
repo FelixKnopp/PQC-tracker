@@ -76,10 +76,10 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-15T11:35:56Z",
-      "last_checked": "2026-10-18T11:14:09Z",
-      "last_verified": "2026-10-18T11:14:09Z",
+      "last_checked": "2026-10-20T11:44:54Z",
+      "last_verified": "2026-10-20T11:44:54Z",
       "source_verified": {
-        "draft": "2026-10-18T11:14:09Z"
+        "draft": "2026-10-20T11:44:54Z"
       },
       "verified_kinds": [
         "draft"
@@ -93,7 +93,7 @@
         "indicator": "in-review",
         "intended_level": "Proposed Standard",
         "lifecycle": "RFC Ed Queue",
-        "lifecycle_detail": "Stream state: Submitted to IESG for Publication; RFC Editor: In Progress",
+        "lifecycle_detail": "Stream state: Submitted to IESG for Publication; RFC Editor: Blocked",
         "maturity": "Not applicable",
         "publication": "Internet-Draft",
         "version": "19",
@@ -139,8 +139,8 @@
               "type": "draft-iesg"
             },
             {
-              "name": "In Progress",
-              "slug": "in_progress",
+              "name": "Blocked",
+              "slug": "blocked",
               "type": "draft-rfceditor"
             },
             {
@@ -154,17 +154,17 @@
           "title": "Composite Module-Lattice-Based Digital Signature Algorithm (ML-DSA) for use in X.509 Public Key Infrastructure",
           "url": "https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-sigs/",
           "volatile": {
-            "doc_time": "2026-10-14T21:26:25Z",
+            "doc_time": "2026-10-19T20:10:44Z",
             "expires": "2026-10-23T19:19:36Z"
           }
         }
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-18T11:14:09Z",
-      "last_verified": "2026-10-18T11:14:09Z",
+      "last_checked": "2026-10-20T11:44:54Z",
+      "last_verified": "2026-10-20T11:44:54Z",
       "source_verified": {
-        "draft": "2026-10-18T11:14:09Z"
+        "draft": "2026-10-20T11:44:54Z"
       },
       "verified_kinds": [
         "draft"
@@ -199,10 +199,10 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-18T11:14:09Z",
-      "last_verified": "2026-10-18T11:14:09Z",
+      "last_checked": "2026-10-20T11:44:54Z",
+      "last_verified": "2026-10-20T11:44:54Z",
       "source_verified": {
-        "nist": "2026-10-18T11:14:09Z"
+        "nist": "2026-10-20T11:44:54Z"
       },
       "verified_kinds": [
         "nist"
@@ -237,10 +237,10 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-18T11:14:09Z",
-      "last_verified": "2026-10-18T11:14:09Z",
+      "last_checked": "2026-10-20T11:44:54Z",
+      "last_verified": "2026-10-20T11:44:54Z",
       "source_verified": {
-        "nist": "2026-10-18T11:14:09Z"
+        "nist": "2026-10-20T11:44:54Z"
       },
       "verified_kinds": [
         "nist"
@@ -295,10 +295,10 @@
       },
       "first_seen": "2026-10-09T16:51:52Z",
       "last_changed": "2026-10-18T11:14:09Z",
-      "last_checked": "2026-10-18T11:14:09Z",
-      "last_verified": "2026-10-18T11:14:09Z",
+      "last_checked": "2026-10-20T11:44:54Z",
+      "last_verified": "2026-10-20T11:44:54Z",
       "source_verified": {
-        "draft": "2026-10-18T11:14:09Z"
+        "draft": "2026-10-20T11:44:54Z"
       },
       "verified_kinds": [
         "draft"
@@ -395,11 +395,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-18T11:14:09Z",
-      "last_verified": "2026-10-18T11:14:09Z",
+      "last_checked": "2026-10-20T11:44:54Z",
+      "last_verified": "2026-10-20T11:44:54Z",
       "source_verified": {
-        "draft": "2026-10-18T11:14:09Z",
-        "rfc": "2026-10-18T11:14:09Z"
+        "draft": "2026-10-20T11:44:54Z",
+        "rfc": "2026-10-20T11:44:54Z"
       },
       "verified_kinds": [
         "draft",
@@ -435,10 +435,10 @@
       },
       "first_seen": "2026-10-09T16:51:52Z",
       "last_changed": "2026-10-09T16:51:52Z",
-      "last_checked": "2026-10-18T11:14:09Z",
-      "last_verified": "2026-10-18T11:14:09Z",
+      "last_checked": "2026-10-20T11:44:54Z",
+      "last_verified": "2026-10-20T11:44:54Z",
       "source_verified": {
-        "nist": "2026-10-18T11:14:09Z"
+        "nist": "2026-10-20T11:44:54Z"
       },
       "verified_kinds": [
         "nist"
@@ -535,11 +535,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-18T11:14:09Z",
-      "last_verified": "2026-10-18T11:14:09Z",
+      "last_checked": "2026-10-20T11:44:54Z",
+      "last_verified": "2026-10-20T11:44:54Z",
       "source_verified": {
-        "draft": "2026-10-18T11:14:09Z",
-        "rfc": "2026-10-18T11:14:09Z"
+        "draft": "2026-10-20T11:44:54Z",
+        "rfc": "2026-10-20T11:44:54Z"
       },
       "verified_kinds": [
         "draft",
@@ -602,10 +602,10 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-18T11:14:09Z",
-      "last_verified": "2026-10-18T11:14:09Z",
+      "last_checked": "2026-10-20T11:44:54Z",
+      "last_verified": "2026-10-20T11:44:54Z",
       "source_verified": {
-        "draft": "2026-10-18T11:14:09Z"
+        "draft": "2026-10-20T11:44:54Z"
       },
       "verified_kinds": [
         "draft"
@@ -702,11 +702,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-18T11:14:09Z",
-      "last_verified": "2026-10-18T11:14:09Z",
+      "last_checked": "2026-10-20T11:44:54Z",
+      "last_verified": "2026-10-20T11:44:54Z",
       "source_verified": {
-        "draft": "2026-10-18T11:14:09Z",
-        "rfc": "2026-10-18T11:14:09Z"
+        "draft": "2026-10-20T11:44:54Z",
+        "rfc": "2026-10-20T11:44:54Z"
       },
       "verified_kinds": [
         "draft",
@@ -804,11 +804,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-18T11:14:09Z",
-      "last_verified": "2026-10-18T11:14:09Z",
+      "last_checked": "2026-10-20T11:44:54Z",
+      "last_verified": "2026-10-20T11:44:54Z",
       "source_verified": {
-        "draft": "2026-10-18T11:14:09Z",
-        "rfc": "2026-10-18T11:14:09Z"
+        "draft": "2026-10-20T11:44:54Z",
+        "rfc": "2026-10-20T11:44:54Z"
       },
       "verified_kinds": [
         "draft",
@@ -817,10 +817,10 @@
     }
   },
   "last_run": {
-    "at": "2026-10-18T11:14:09Z",
+    "at": "2026-10-20T11:44:54Z",
     "errors": 0,
     "outcome": "ok"
   },
-  "last_successful_refresh": "2026-10-18T11:14:09Z",
+  "last_successful_refresh": "2026-10-20T11:44:54Z",
   "schema_version": 1
 }
