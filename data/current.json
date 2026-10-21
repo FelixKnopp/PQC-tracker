@@ -34,8 +34,8 @@
               "type": "draft"
             },
             {
-              "name": "In Progress",
-              "slug": "inprog",
+              "name": "Waiting on Authors",
+              "slug": "waitauth",
               "type": "draft-iana-action"
             },
             {
@@ -69,17 +69,17 @@
           "title": "Composite ML-KEM for use in X.509 Public Key Infrastructure",
           "url": "https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-kem/",
           "volatile": {
-            "doc_time": "2026-10-14T21:20:22Z",
+            "doc_time": "2026-10-21T00:35:04Z",
             "expires": "2027-04-17T20:54:58Z"
           }
         }
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-15T11:35:56Z",
-      "last_checked": "2026-10-20T11:44:54Z",
-      "last_verified": "2026-10-20T11:44:54Z",
+      "last_checked": "2026-10-21T11:56:48Z",
+      "last_verified": "2026-10-21T11:56:48Z",
       "source_verified": {
-        "draft": "2026-10-20T11:44:54Z"
+        "draft": "2026-10-21T11:56:48Z"
       },
       "verified_kinds": [
         "draft"
@@ -154,17 +154,17 @@
           "title": "Composite Module-Lattice-Based Digital Signature Algorithm (ML-DSA) for use in X.509 Public Key Infrastructure",
           "url": "https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-sigs/",
           "volatile": {
-            "doc_time": "2026-10-19T20:10:44Z",
+            "doc_time": "2026-10-20T19:49:47Z",
             "expires": "2026-10-23T19:19:36Z"
           }
         }
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-20T11:44:54Z",
-      "last_verified": "2026-10-20T11:44:54Z",
+      "last_checked": "2026-10-21T11:56:48Z",
+      "last_verified": "2026-10-21T11:56:48Z",
       "source_verified": {
-        "draft": "2026-10-20T11:44:54Z"
+        "draft": "2026-10-21T11:56:48Z"
       },
       "verified_kinds": [
         "draft"
@@ -199,10 +199,10 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-20T11:44:54Z",
-      "last_verified": "2026-10-20T11:44:54Z",
+      "last_checked": "2026-10-21T11:56:48Z",
+      "last_verified": "2026-10-21T11:56:48Z",
       "source_verified": {
-        "nist": "2026-10-20T11:44:54Z"
+        "nist": "2026-10-21T11:56:48Z"
       },
       "verified_kinds": [
         "nist"
@@ -237,10 +237,10 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-20T11:44:54Z",
-      "last_verified": "2026-10-20T11:44:54Z",
+      "last_checked": "2026-10-21T11:56:48Z",
+      "last_verified": "2026-10-21T11:56:48Z",
       "source_verified": {
-        "nist": "2026-10-20T11:44:54Z"
+        "nist": "2026-10-21T11:56:48Z"
       },
       "verified_kinds": [
         "nist"
@@ -249,7 +249,7 @@
     "hqc-tls": {
       "check_status": "ok",
       "derived": {
-        "document": "draft-preussmattsson-tls-hqckem-02",
+        "document": "draft-preussmattsson-tls-hqckem-03",
         "document_url": "https://datatracker.ietf.org/doc/draft-preussmattsson-tls-hqckem/",
         "indicator": "active-draft",
         "intended_level": null,
@@ -257,7 +257,7 @@
         "lifecycle_detail": "",
         "maturity": "Not applicable",
         "publication": "Internet-Draft",
-        "version": "02",
+        "version": "03",
         "warnings": []
       },
       "errors": [],
@@ -270,7 +270,7 @@
           "name": "draft-preussmattsson-tls-hqckem",
           "replaced_by": [],
           "replaces": [],
-          "rev": "02",
+          "rev": "03",
           "states": [
             {
               "name": "Active",
@@ -288,17 +288,17 @@
           "title": "HQC-KEM Key Agreement for TLS 1.3",
           "url": "https://datatracker.ietf.org/doc/draft-preussmattsson-tls-hqckem/",
           "volatile": {
-            "doc_time": "2026-10-17T16:44:46Z",
-            "expires": "2027-04-20T16:44:46Z"
+            "doc_time": "2026-10-20T15:01:34Z",
+            "expires": "2027-04-23T15:01:34Z"
           }
         }
       },
       "first_seen": "2026-10-09T16:51:52Z",
-      "last_changed": "2026-10-18T11:14:09Z",
-      "last_checked": "2026-10-20T11:44:54Z",
-      "last_verified": "2026-10-20T11:44:54Z",
+      "last_changed": "2026-10-21T11:56:48Z",
+      "last_checked": "2026-10-21T11:56:48Z",
+      "last_verified": "2026-10-21T11:56:48Z",
       "source_verified": {
-        "draft": "2026-10-20T11:44:54Z"
+        "draft": "2026-10-21T11:56:48Z"
       },
       "verified_kinds": [
         "draft"
@@ -395,11 +395,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-20T11:44:54Z",
-      "last_verified": "2026-10-20T11:44:54Z",
+      "last_checked": "2026-10-21T11:56:48Z",
+      "last_verified": "2026-10-21T11:56:48Z",
       "source_verified": {
-        "draft": "2026-10-20T11:44:54Z",
-        "rfc": "2026-10-20T11:44:54Z"
+        "draft": "2026-10-21T11:56:48Z",
+        "rfc": "2026-10-21T11:56:48Z"
       },
       "verified_kinds": [
         "draft",
@@ -435,10 +435,10 @@
       },
       "first_seen": "2026-10-09T16:51:52Z",
       "last_changed": "2026-10-09T16:51:52Z",
-      "last_checked": "2026-10-20T11:44:54Z",
-      "last_verified": "2026-10-20T11:44:54Z",
+      "last_checked": "2026-10-21T11:56:48Z",
+      "last_verified": "2026-10-21T11:56:48Z",
       "source_verified": {
-        "nist": "2026-10-20T11:44:54Z"
+        "nist": "2026-10-21T11:56:48Z"
       },
       "verified_kinds": [
         "nist"
@@ -535,11 +535,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-20T11:44:54Z",
-      "last_verified": "2026-10-20T11:44:54Z",
+      "last_checked": "2026-10-21T11:56:48Z",
+      "last_verified": "2026-10-21T11:56:48Z",
       "source_verified": {
-        "draft": "2026-10-20T11:44:54Z",
-        "rfc": "2026-10-20T11:44:54Z"
+        "draft": "2026-10-21T11:56:48Z",
+        "rfc": "2026-10-21T11:56:48Z"
       },
       "verified_kinds": [
         "draft",
@@ -602,10 +602,10 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-20T11:44:54Z",
-      "last_verified": "2026-10-20T11:44:54Z",
+      "last_checked": "2026-10-21T11:56:48Z",
+      "last_verified": "2026-10-21T11:56:48Z",
       "source_verified": {
-        "draft": "2026-10-20T11:44:54Z"
+        "draft": "2026-10-21T11:56:48Z"
       },
       "verified_kinds": [
         "draft"
@@ -702,11 +702,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-20T11:44:54Z",
-      "last_verified": "2026-10-20T11:44:54Z",
+      "last_checked": "2026-10-21T11:56:48Z",
+      "last_verified": "2026-10-21T11:56:48Z",
       "source_verified": {
-        "draft": "2026-10-20T11:44:54Z",
-        "rfc": "2026-10-20T11:44:54Z"
+        "draft": "2026-10-21T11:56:48Z",
+        "rfc": "2026-10-21T11:56:48Z"
       },
       "verified_kinds": [
         "draft",
@@ -804,11 +804,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-10-20T11:44:54Z",
-      "last_verified": "2026-10-20T11:44:54Z",
+      "last_checked": "2026-10-21T11:56:48Z",
+      "last_verified": "2026-10-21T11:56:48Z",
       "source_verified": {
-        "draft": "2026-10-20T11:44:54Z",
-        "rfc": "2026-10-20T11:44:54Z"
+        "draft": "2026-10-21T11:56:48Z",
+        "rfc": "2026-10-21T11:56:48Z"
       },
       "verified_kinds": [
         "draft",
@@ -817,10 +817,10 @@
     }
   },
   "last_run": {
-    "at": "2026-10-20T11:44:54Z",
+    "at": "2026-10-21T11:56:48Z",
     "errors": 0,
     "outcome": "ok"
   },
-  "last_successful_refresh": "2026-10-20T11:44:54Z",
+  "last_successful_refresh": "2026-10-21T11:56:48Z",
   "schema_version": 1
 }
