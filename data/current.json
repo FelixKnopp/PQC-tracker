@@ -76,10 +76,10 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-15T11:35:56Z",
-      "last_checked": "2026-11-04T14:38:30Z",
-      "last_verified": "2026-11-04T14:38:30Z",
+      "last_checked": "2026-11-07T13:10:00Z",
+      "last_verified": "2026-11-07T13:10:00Z",
       "source_verified": {
-        "draft": "2026-11-04T14:38:30Z"
+        "draft": "2026-11-07T13:10:00Z"
       },
       "verified_kinds": [
         "draft"
@@ -88,21 +88,23 @@
     "composite-signatures": {
       "check_status": "ok",
       "derived": {
-        "document": "draft-ietf-lamps-pq-composite-sigs-19",
-        "document_url": "https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-sigs/",
-        "indicator": "in-review",
+        "document": "RFC 10073",
+        "document_url": "https://www.rfc-editor.org/info/rfc10073",
+        "indicator": "proposed-standard",
         "intended_level": "Proposed Standard",
-        "lifecycle": "RFC Ed Queue",
-        "lifecycle_detail": "Stream state: Submitted to IESG for Publication; RFC Editor: In Progress",
-        "maturity": "Not applicable",
-        "publication": "Internet-Draft",
-        "version": "19",
+        "lifecycle": "Published",
+        "lifecycle_detail": "",
+        "maturity": "Proposed Standard",
+        "publication": "Published RFC",
+        "version": "10073",
         "warnings": []
       },
       "errors": [],
       "facts": {
         "draft": {
-          "became_rfc": [],
+          "became_rfc": [
+            "10073"
+          ],
           "group": "lamps",
           "group_name": "Limited Additional Mechanisms for PKIX and SMIME",
           "intended_level": "Proposed Standard",
@@ -114,8 +116,8 @@
           "rev": "19",
           "states": [
             {
-              "name": "Active",
-              "slug": "active",
+              "name": "RFC",
+              "slug": "rfc",
               "type": "draft"
             },
             {
@@ -134,14 +136,9 @@
               "type": "draft-iana-review"
             },
             {
-              "name": "RFC Ed Queue",
-              "slug": "rfcqueue",
+              "name": "RFC Published",
+              "slug": "pub",
               "type": "draft-iesg"
-            },
-            {
-              "name": "In Progress",
-              "slug": "in_progress",
-              "type": "draft-rfceditor"
             },
             {
               "name": "Submitted to IESG for Publication",
@@ -154,20 +151,40 @@
           "title": "Composite Module-Lattice-Based Digital Signature Algorithm (ML-DSA) for use in X.509 Public Key Infrastructure",
           "url": "https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-sigs/",
           "volatile": {
-            "doc_time": "2026-11-03T17:36:30Z",
+            "doc_time": "2026-11-07T01:43:38Z",
             "expires": "2026-10-23T19:19:36Z"
           }
+        },
+        "rfc": {
+          "datatracker_std_level": "Proposed Standard",
+          "doi": "10.17487/RFC10073",
+          "draft": "draft-ietf-lamps-pq-composite-sigs",
+          "has_errata": false,
+          "number": 10073,
+          "obsoleted_by": [],
+          "obsoletes": [],
+          "pub_date": "November 2026",
+          "pub_status": "PROPOSED STANDARD",
+          "source_group": "Limited Additional Mechanisms for PKIX and SMIME",
+          "status": "Proposed Standard",
+          "status_raw": "PROPOSED STANDARD",
+          "title": "Composite Module-Lattice-Based Digital Signature Algorithm (ML-DSA) for Use in X.509 Public Key Infrastructure",
+          "updated_by": [],
+          "updates": [],
+          "url": "https://www.rfc-editor.org/info/rfc10073"
         }
       },
       "first_seen": "2026-10-09T16:37:47Z",
-      "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-11-04T14:38:30Z",
-      "last_verified": "2026-11-04T14:38:30Z",
+      "last_changed": "2026-11-07T13:10:00Z",
+      "last_checked": "2026-11-07T13:10:00Z",
+      "last_verified": "2026-11-07T13:10:00Z",
       "source_verified": {
-        "draft": "2026-11-04T14:38:30Z"
+        "draft": "2026-11-07T13:10:00Z",
+        "rfc": "2026-11-07T13:10:00Z"
       },
       "verified_kinds": [
-        "draft"
+        "draft",
+        "rfc"
       ]
     },
     "fips-203": {
@@ -199,10 +216,10 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-11-04T14:38:30Z",
-      "last_verified": "2026-11-04T14:38:30Z",
+      "last_checked": "2026-11-07T13:10:00Z",
+      "last_verified": "2026-11-07T13:10:00Z",
       "source_verified": {
-        "nist": "2026-11-04T14:38:30Z"
+        "nist": "2026-11-07T13:10:00Z"
       },
       "verified_kinds": [
         "nist"
@@ -237,10 +254,10 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-11-04T14:38:30Z",
-      "last_verified": "2026-11-04T14:38:30Z",
+      "last_checked": "2026-11-07T13:10:00Z",
+      "last_verified": "2026-11-07T13:10:00Z",
       "source_verified": {
-        "nist": "2026-11-04T14:38:30Z"
+        "nist": "2026-11-07T13:10:00Z"
       },
       "verified_kinds": [
         "nist"
@@ -295,10 +312,10 @@
       },
       "first_seen": "2026-10-09T16:51:52Z",
       "last_changed": "2026-10-21T11:56:48Z",
-      "last_checked": "2026-11-04T14:38:30Z",
-      "last_verified": "2026-11-04T14:38:30Z",
+      "last_checked": "2026-11-07T13:10:00Z",
+      "last_verified": "2026-11-07T13:10:00Z",
       "source_verified": {
-        "draft": "2026-11-04T14:38:30Z"
+        "draft": "2026-11-07T13:10:00Z"
       },
       "verified_kinds": [
         "draft"
@@ -395,11 +412,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-11-04T14:38:30Z",
-      "last_verified": "2026-11-04T14:38:30Z",
+      "last_checked": "2026-11-07T13:10:00Z",
+      "last_verified": "2026-11-07T13:10:00Z",
       "source_verified": {
-        "draft": "2026-11-04T14:38:30Z",
-        "rfc": "2026-11-04T14:38:30Z"
+        "draft": "2026-11-07T13:10:00Z",
+        "rfc": "2026-11-07T13:10:00Z"
       },
       "verified_kinds": [
         "draft",
@@ -435,10 +452,10 @@
       },
       "first_seen": "2026-10-09T16:51:52Z",
       "last_changed": "2026-10-09T16:51:52Z",
-      "last_checked": "2026-11-04T14:38:30Z",
-      "last_verified": "2026-11-04T14:38:30Z",
+      "last_checked": "2026-11-07T13:10:00Z",
+      "last_verified": "2026-11-07T13:10:00Z",
       "source_verified": {
-        "nist": "2026-11-04T14:38:30Z"
+        "nist": "2026-11-07T13:10:00Z"
       },
       "verified_kinds": [
         "nist"
@@ -535,11 +552,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-11-04T14:38:30Z",
-      "last_verified": "2026-11-04T14:38:30Z",
+      "last_checked": "2026-11-07T13:10:00Z",
+      "last_verified": "2026-11-07T13:10:00Z",
       "source_verified": {
-        "draft": "2026-11-04T14:38:30Z",
-        "rfc": "2026-11-04T14:38:30Z"
+        "draft": "2026-11-07T13:10:00Z",
+        "rfc": "2026-11-07T13:10:00Z"
       },
       "verified_kinds": [
         "draft",
@@ -602,10 +619,10 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-11-04T14:38:30Z",
-      "last_verified": "2026-11-04T14:38:30Z",
+      "last_checked": "2026-11-07T13:10:00Z",
+      "last_verified": "2026-11-07T13:10:00Z",
       "source_verified": {
-        "draft": "2026-11-04T14:38:30Z"
+        "draft": "2026-11-07T13:10:00Z"
       },
       "verified_kinds": [
         "draft"
@@ -702,11 +719,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-11-04T14:38:30Z",
-      "last_verified": "2026-11-04T14:38:30Z",
+      "last_checked": "2026-11-07T13:10:00Z",
+      "last_verified": "2026-11-07T13:10:00Z",
       "source_verified": {
-        "draft": "2026-11-04T14:38:30Z",
-        "rfc": "2026-11-04T14:38:30Z"
+        "draft": "2026-11-07T13:10:00Z",
+        "rfc": "2026-11-07T13:10:00Z"
       },
       "verified_kinds": [
         "draft",
@@ -804,11 +821,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-11-04T14:38:30Z",
-      "last_verified": "2026-11-04T14:38:30Z",
+      "last_checked": "2026-11-07T13:10:00Z",
+      "last_verified": "2026-11-07T13:10:00Z",
       "source_verified": {
-        "draft": "2026-11-04T14:38:30Z",
-        "rfc": "2026-11-04T14:38:30Z"
+        "draft": "2026-11-07T13:10:00Z",
+        "rfc": "2026-11-07T13:10:00Z"
       },
       "verified_kinds": [
         "draft",
@@ -817,10 +834,10 @@
     }
   },
   "last_run": {
-    "at": "2026-11-04T14:38:30Z",
+    "at": "2026-11-07T13:10:00Z",
     "errors": 0,
     "outcome": "ok"
   },
-  "last_successful_refresh": "2026-11-04T14:38:30Z",
+  "last_successful_refresh": "2026-11-07T13:10:00Z",
   "schema_version": 1
 }
