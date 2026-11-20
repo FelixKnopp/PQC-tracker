@@ -76,10 +76,10 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-15T11:35:56Z",
-      "last_checked": "2026-11-19T15:50:06Z",
-      "last_verified": "2026-11-19T15:50:06Z",
+      "last_checked": "2026-11-20T15:31:48Z",
+      "last_verified": "2026-11-20T15:31:48Z",
       "source_verified": {
-        "draft": "2026-11-19T15:50:06Z"
+        "draft": "2026-11-20T15:31:48Z"
       },
       "verified_kinds": [
         "draft"
@@ -176,11 +176,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-11-07T13:10:00Z",
-      "last_checked": "2026-11-19T15:50:06Z",
-      "last_verified": "2026-11-19T15:50:06Z",
+      "last_checked": "2026-11-20T15:31:48Z",
+      "last_verified": "2026-11-20T15:31:48Z",
       "source_verified": {
-        "draft": "2026-11-19T15:50:06Z",
-        "rfc": "2026-11-19T15:50:06Z"
+        "draft": "2026-11-20T15:31:48Z",
+        "rfc": "2026-11-20T15:31:48Z"
       },
       "verified_kinds": [
         "draft",
@@ -216,10 +216,10 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-11-19T15:50:06Z",
-      "last_verified": "2026-11-19T15:50:06Z",
+      "last_checked": "2026-11-20T15:31:48Z",
+      "last_verified": "2026-11-20T15:31:48Z",
       "source_verified": {
-        "nist": "2026-11-19T15:50:06Z"
+        "nist": "2026-11-20T15:31:48Z"
       },
       "verified_kinds": [
         "nist"
@@ -254,10 +254,10 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-11-19T15:50:06Z",
-      "last_verified": "2026-11-19T15:50:06Z",
+      "last_checked": "2026-11-20T15:31:48Z",
+      "last_verified": "2026-11-20T15:31:48Z",
       "source_verified": {
-        "nist": "2026-11-19T15:50:06Z"
+        "nist": "2026-11-20T15:31:48Z"
       },
       "verified_kinds": [
         "nist"
@@ -312,10 +312,10 @@
       },
       "first_seen": "2026-10-09T16:51:52Z",
       "last_changed": "2026-10-21T11:56:48Z",
-      "last_checked": "2026-11-19T15:50:06Z",
-      "last_verified": "2026-11-19T15:50:06Z",
+      "last_checked": "2026-11-20T15:31:48Z",
+      "last_verified": "2026-11-20T15:31:48Z",
       "source_verified": {
-        "draft": "2026-11-19T15:50:06Z"
+        "draft": "2026-11-20T15:31:48Z"
       },
       "verified_kinds": [
         "draft"
@@ -412,11 +412,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-11-19T15:50:06Z",
-      "last_verified": "2026-11-19T15:50:06Z",
+      "last_checked": "2026-11-20T15:31:48Z",
+      "last_verified": "2026-11-20T15:31:48Z",
       "source_verified": {
-        "draft": "2026-11-19T15:50:06Z",
-        "rfc": "2026-11-19T15:50:06Z"
+        "draft": "2026-11-20T15:31:48Z",
+        "rfc": "2026-11-20T15:31:48Z"
       },
       "verified_kinds": [
         "draft",
@@ -452,10 +452,10 @@
       },
       "first_seen": "2026-10-09T16:51:52Z",
       "last_changed": "2026-10-09T16:51:52Z",
-      "last_checked": "2026-11-19T15:50:06Z",
-      "last_verified": "2026-11-19T15:50:06Z",
+      "last_checked": "2026-11-20T15:31:48Z",
+      "last_verified": "2026-11-20T15:31:48Z",
       "source_verified": {
-        "nist": "2026-11-19T15:50:06Z"
+        "nist": "2026-11-20T15:31:48Z"
       },
       "verified_kinds": [
         "nist"
@@ -552,11 +552,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-11-19T15:50:06Z",
-      "last_verified": "2026-11-19T15:50:06Z",
+      "last_checked": "2026-11-20T15:31:48Z",
+      "last_verified": "2026-11-20T15:31:48Z",
       "source_verified": {
-        "draft": "2026-11-19T15:50:06Z",
-        "rfc": "2026-11-19T15:50:06Z"
+        "draft": "2026-11-20T15:31:48Z",
+        "rfc": "2026-11-20T15:31:48Z"
       },
       "verified_kinds": [
         "draft",
@@ -570,7 +570,7 @@
         "document_url": "https://datatracker.ietf.org/doc/draft-ietf-cose-sphincs-plus/",
         "indicator": "in-review",
         "intended_level": "Proposed Standard",
-        "lifecycle": "AD Evaluation",
+        "lifecycle": "In Last Call",
         "lifecycle_detail": "Stream state: Submitted to IESG for Publication",
         "maturity": "Not applicable",
         "publication": "Internet-Draft",
@@ -597,8 +597,13 @@
               "type": "draft"
             },
             {
-              "name": "AD Evaluation",
-              "slug": "ad-eval",
+              "name": "IANA - Review Needed",
+              "slug": "need-rev",
+              "type": "draft-iana-review"
+            },
+            {
+              "name": "In Last Call",
+              "slug": "lc",
               "type": "draft-iesg"
             },
             {
@@ -612,17 +617,17 @@
           "title": "SLH-DSA for JOSE and COSE",
           "url": "https://datatracker.ietf.org/doc/draft-ietf-cose-sphincs-plus/",
           "volatile": {
-            "doc_time": "2026-11-19T13:58:23Z",
+            "doc_time": "2026-11-19T17:44:20Z",
             "expires": "2027-05-23T13:58:23Z"
           }
         }
       },
       "first_seen": "2026-10-09T16:37:47Z",
-      "last_changed": "2026-11-19T15:50:06Z",
-      "last_checked": "2026-11-19T15:50:06Z",
-      "last_verified": "2026-11-19T15:50:06Z",
+      "last_changed": "2026-11-20T15:31:48Z",
+      "last_checked": "2026-11-20T15:31:48Z",
+      "last_verified": "2026-11-20T15:31:48Z",
       "source_verified": {
-        "draft": "2026-11-19T15:50:06Z"
+        "draft": "2026-11-20T15:31:48Z"
       },
       "verified_kinds": [
         "draft"
@@ -719,11 +724,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-11-19T15:50:06Z",
-      "last_verified": "2026-11-19T15:50:06Z",
+      "last_checked": "2026-11-20T15:31:48Z",
+      "last_verified": "2026-11-20T15:31:48Z",
       "source_verified": {
-        "draft": "2026-11-19T15:50:06Z",
-        "rfc": "2026-11-19T15:50:06Z"
+        "draft": "2026-11-20T15:31:48Z",
+        "rfc": "2026-11-20T15:31:48Z"
       },
       "verified_kinds": [
         "draft",
@@ -821,11 +826,11 @@
       },
       "first_seen": "2026-10-09T16:37:47Z",
       "last_changed": "2026-10-09T16:37:47Z",
-      "last_checked": "2026-11-19T15:50:06Z",
-      "last_verified": "2026-11-19T15:50:06Z",
+      "last_checked": "2026-11-20T15:31:48Z",
+      "last_verified": "2026-11-20T15:31:48Z",
       "source_verified": {
-        "draft": "2026-11-19T15:50:06Z",
-        "rfc": "2026-11-19T15:50:06Z"
+        "draft": "2026-11-20T15:31:48Z",
+        "rfc": "2026-11-20T15:31:48Z"
       },
       "verified_kinds": [
         "draft",
@@ -834,10 +839,10 @@
     }
   },
   "last_run": {
-    "at": "2026-11-19T15:50:06Z",
+    "at": "2026-11-20T15:31:48Z",
     "errors": 0,
     "outcome": "ok"
   },
-  "last_successful_refresh": "2026-11-19T15:50:06Z",
+  "last_successful_refresh": "2026-11-20T15:31:48Z",
   "schema_version": 1
 }
